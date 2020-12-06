@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, iI'm Bagus Setya
 
 <h3 align="center">full-stack developer a guy from Indonesia</h3>
 <p align="center">⚙️html5, ⚙️javascript, ⚙️react,⚙️vue<br>⚙️java, ⚙️php, ⚙️python, ⚙️nodejs<br>⚙️mysql, ⚙️mongodb</p>
