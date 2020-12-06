@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<h3 align="center">full-stack developer a guy from Indonesia</h3>
+<p align="center">⚙️html5, ⚙️javascript, ⚙️react,⚙️vue<br>⚙️java, ⚙️php, ⚙️python, ⚙️nodejs<br>⚙️mysql, ⚙️mongodb</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/bgustyp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kulokenci" height="30" width="40" /></a>
+<a href="https://instagram.com/bgustyp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kulokenci" height="30" width="40" /></a>
+<a href="https://twitter.com/bgustyp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kulokenci" height="30" width="40" /></a>
+</p>
+
 <!--
 **bgustyp/bgustyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
