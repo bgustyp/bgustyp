@@ -1,26 +1,13 @@
-### Hi there 👋, iI'm Bagus Setya
+## Hi there 👋, I'm Bagus Setya Pambudi
 
-<h3 align="center">full-stack developer a guy from Indonesia</h3>
-<p align="center">⚙️html5, ⚙️javascript, ⚙️react,⚙️vue<br>⚙️java, ⚙️php, ⚙️python, ⚙️nodejs<br>⚙️mysql, ⚙️mongodb</p>
+I'm a newbie developer from Indonesia.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/bgustyp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kulokenci" height="30" width="40" /></a>
-<a href="https://instagram.com/bgustyp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kulokenci" height="30" width="40" /></a>
-<a href="https://twitter.com/bgustyp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kulokenci" height="30" width="40" /></a>
-</p>
+- 🌱 Learning Computer Engineering
+- 📚 Studying Informatics and Computer Engineering
+- 🗣 Pronounce he/him
+- 🎵 K-pop, EDM (Dubstep, Electro house), Rock, Pop, Dangdut
 
-<!--
-**bgustyp/bgustyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Quotes:  
+  "Ojo lali madang, ben urip"  
+  
+Checkout: [Homepage](https://bgustyp.my.id) - [Blog](https://blog.bgustyp.my.id) - [Portofolio](https://cv.bgustyp.my.id) - [LinkedIn](https://linkedin.com/id/bgustyp)  
